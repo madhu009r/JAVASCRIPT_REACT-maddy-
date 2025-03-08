@@ -1,0 +1,22 @@
+NPM(Node package manager)
+
+When we performing react CDN it will not a good practice to do that.
+To avoid these situation, we use some build in package
+
+->npm, is a javascript package manager
+->The external resources used in REACT are managed by npm.
+->Example, like playstore , appstore.
+-> npm, will give a package management support.
+
+
+##we are done with installing vite 
+->is a modern javascript build tool.
+->vite is build tool used in react app development.
+->commad: npm create vite@latest
+-> vite support all typescrit, js and javascript libraries.
+->it spped up the build process
+
+
+# Use of Babble in react project.
+-> The browser doesn't understand the js file, it only understand hTML file format
+->For here, Babble take care of the problem, it takes the jsx code and transfile into the HTML code.
